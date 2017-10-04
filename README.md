@@ -3,4 +3,4 @@
 Script para utilizar camera de smartphone ou webcam via browser!
 
 Fonte:
-<a href="https://jonathasguerra.com.br/blog/acessando-camera-do-celular-tirar-foto-e-fazer-upload-com-php-e-html5/">jonathas Guerra</a>
+<a href="https://jonathasguerra.com.br/blog/acessando-camera-do-celular-tirar-foto-e-fazer-upload-com-php-e-html5/" target="blank">jonathas Guerra</a>
